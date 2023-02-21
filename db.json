@@ -1,0 +1,3613 @@
+{
+  "jewellery":[
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I2SGQADA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Flower and Arcs Diamond Stud Earrings",
+     "price": "37327",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 1
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502118HBEABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Leaf Diamond Hoop Earrings",
+     "price": "32824",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 2
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2A3DERAGA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Floral Diamond Drop Earrings",
+     "price": "42571",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 3
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFSGPAGA29.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Blissful Lilac Stud Earrings",
+     "price": "28753",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 4
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D1DBPABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Striking Concentric Drop Earrings",
+     "price": "46501",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 5
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503119PTVAAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stunning White Gold and Diamond Pendant",
+     "price": "29656",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 6
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502994PHZAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Enchanting Bold Flower Rose Gold and Diamond Pendant",
+     "price": "36377",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 7
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D1SCPDUAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Gorgeous Floral Pendant",
+     "price": "32126",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 8
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1PXJAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Unique Design Laser Cut Floral Pattern Gold Pendant",
+     "price": "34475",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 9
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50T446FALAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Concentric Circles Diamond Ring",
+     "price": "30868",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 10
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2A3FZZAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Elegant Abstract Diamond Ring",
+     "price": "35667",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 11
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFHFAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "A Glimpse of Lilac Ring",
+     "price": "29804",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 12
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I1FDZAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Subtle Butterflies Finger Ring",
+     "price": "33146",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 13
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I2FELAA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "The Gleaming Flecks Ring",
+     "price": "25693",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 14
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFIDAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Trendy Ring",
+     "price": "33972",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 15
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D1FZMAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Brilliant Dual Tone Ring",
+     "price": "38886",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 16
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A3FNNAA88_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Edgy Floral Emerald and Ruby Ring",
+     "price": "37452",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 17
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501135OACABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Alluring Gold and Diamond Nose Pin",
+     "price": "17148",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 18
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D2YDOAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Traditional Floral Mangalsutra",
+     "price": "47184",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 19
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D1YZSAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Radiant Union Mangalsutra",
+     "price": "53718",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 20
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503117YEXAB29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charming Flower Mangalsutra",
+     "price": "46873",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 21
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504002YWRAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Minimalist Delight Diamond Mangalsutra",
+     "price": "45682",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 22
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1I2YCMAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Radiant Circular Vati Mangalsutra",
+     "price": "53754",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 23
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFGHYAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Classy Pendant with Chain",
+     "price": "36650",
+     "Category1": "women",
+     "Category2": "pendant with chain",
+     "id": 24
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFGHNAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Cherry Wine Pendant with Chain",
+     "price": "43348",
+     "Category1": "women",
+     "Category2": "pendant with chain",
+     "id": 25
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I2GEIAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Timeless Sapphire and Diamond Pendant with Chain",
+     "price": "40545",
+     "Category1": "women",
+     "Category2": "pendant with chain",
+     "id": 26
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A2GVEAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Leafy Lariat Pendant with Chain",
+     "price": "38612",
+     "Category1": "women",
+     "Category2": "pendant with chain",
+     "id": 27
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1I2GARAAP1_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Traditional Gold Pendant with Chain",
+     "price": "25151",
+     "Category1": "women",
+     "Category2": "pendant with chain",
+     "id": 28
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F1D1GJRAA37_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Classic Gold Garnet Birthstone Pendant with Chain",
+     "price": "23348",
+     "Category1": "unisex",
+     "Category2": "pendant with chain",
+     "id": 29
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1D1BFJAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Geometric Diamond Bracelet",
+     "price": "46812",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 30
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I2BAJAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "A Twist of Gold Bracelet",
+     "price": "31412",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 31
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513220BANAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Lovely Yellow Gold Floral Charm Bracelet",
+     "price": "36229",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 32
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D1BQYAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Subtle Dual Tone Bracelet",
+     "price": "48036",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 33
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D1BJAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Bold Grid Bracelet",
+     "price": "42412",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 34
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D1BILAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Elegant Rajkot Bead Bracelet",
+     "price": "54487",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 35
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1D1FKVAA00.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Glamorous Ridged Gold Ring for Men",
+     "price": "47709",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 36
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502617FAQAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Marvelous 18 Karat Yellow Gold Finger Ring",
+     "price": "32694",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 37
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502621FHKAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Alluring Multifinish Gold Finger Ring for Men",
+     "price": "33451",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 38
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50E2A1FDCAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Wavy pattern Gold Finger Band For Men",
+     "price": "28669",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 39
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503120FMVAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 4 % Off",
+     "title": "Romantic Diamond Finger Ring for Men",
+     "price": "45184",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 40
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503117FUYAA04.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Bold Stylish Diamond Ring for Men",
+     "price": "46777",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 41
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502011FEDAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Contemporary 18 Karat Yellow Gold And Diamond Finger Ring",
+     "price": "59975",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 42
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500013FEAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Elegant 18 Karat Gold And Diamond Finger Ring",
+     "price": "27658",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 43
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500005FIAAB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Contemporary Diamond Finger Ring",
+     "price": "21308",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 44
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500009SXAABA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Irresistible 18 Karat Yellow Gold Ruby-Embellished Petals Stud Earrings",
+     "price": "30405",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 45
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500021SAAABA13_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Geometric Sapphire Gold Stud Earrings",
+     "price": "28478",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 46
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500029NOAAC04_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Floral Branch Pattern Diamond Necklace",
+     "price": "171569",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 47
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063OCAAAC02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Flowerbud Gold and Diamond Nose Pin",
+     "price": "9971",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 48
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063ODAAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Leaf Inspired Gold and Diamond Nose Pin",
+     "price": "9436",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 49
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063OJAAAB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stunning Diamond Nose Pin",
+     "price": "13479",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 50
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063OKAAAA01_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stunning Three Stone Diamond Nose Pin",
+     "price": "15775",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 51
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063OQAAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Single Stone Gold and Diamond Nose Pin",
+     "price": "19902",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 52
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063ORAAPA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Opulent Gold and Diamond Nose Pin",
+     "price": "44770",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 53
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063OUAAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Ethereal Gold and Diamond Nose Pin",
+     "price": "12158",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 54
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063OXAAAB04_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Glimmering Single Stud Diamond Nose Pin",
+     "price": "10471",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 55
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500063PLAAAA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Charming Ruby Pendant",
+     "price": "11036",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 56
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064OEAAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stunning Floral Seven Stone Diamond Nose Pin",
+     "price": "18620",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 57
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064OFAAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Sublime Gold and Diamond Nose Pin",
+     "price": "11543",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 58
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064OGAAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Irresistible Floral Diamond Nose Pin",
+     "price": "9394",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 59
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064OKAAAB22_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Floral Single Stone Diamond Nose Pin",
+     "price": "8641",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 60
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064OWAAAB04_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delicate Gold and Diamond Nose Pin",
+     "price": "29063",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 61
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064SVAADA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Traditional Minimal Diamond Stud Earrings",
+     "price": "29145",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 62
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064SYBABA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Subtle Diamond Single Stone Stud Earrings for Kids",
+     "price": "37897",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 63
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/5000671CAABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Sophia Diamond Pendant Earrings Set",
+     "price": "141972",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 64
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500067FYAAA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Fancy Floral Finger Ring",
+     "price": "15616",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 65
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500067OXAAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Vanca Diamond Nose Pin",
+     "price": "29721",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 66
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500067SCAAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Attractive Diamond Stud Earrings",
+     "price": "66162",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 67
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500067SRAABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Iqra Diamond Stud Earrings",
+     "price": "91949",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 68
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500073DRAABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Lustrous Diamond and Pearl Gold Drop Earrings",
+     "price": "25051",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 69
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500083OWAAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sparkling Elegant Gold and Diamond Nose Pin",
+     "price": "33856",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 70
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500104SQAABAPL_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Riona Pearl Stud Earrings",
+     "price": "16570",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 71
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500109PGAAAAPL_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Pearl Encased in Heart Pendant",
+     "price": "7098",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 72
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500149PQAAAAPL_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Regal 18 Karat Yellow Gold And Pearl Scrolled Pendant",
+     "price": "27733",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 73
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500176FGAAB04_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Simplistic 18 Karat Yellow Gold And Diamond Finger Ring",
+     "price": "138323",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 74
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500177FOAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Breathtaking Gold and Diamond Finger Ring for Men",
+     "price": "39115",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 75
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500179STAABA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Radiant 18 Karat Yellow Gold And Ruby Floral Studs",
+     "price": "8702",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 76
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500272FCAAA11_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Edgy Emerald Ring",
+     "price": "13454",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 77
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500281VBABAPL_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Elegant Pearl Bangle",
+     "price": "73039",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 78
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500355SXAABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charming Diamond and White Gold Round Stud Earrings",
+     "price": "23207",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 79
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500440PEAAAAPL_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "18 Karat Pearl Pendant",
+     "price": "10417",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 80
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500440SEAABAPL_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Stunning 18 Karat Gold And Pearl Earrings",
+     "price": "22827",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 81
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500462FOAAA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Mesmerising 18 Karat Gold And Ruby Double Floral Ring",
+     "price": "10114",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 82
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500464FDAAB22_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delightful 18 Karat Gold And Diamond Floral Ring",
+     "price": "31148",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 83
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/5004732BAABB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Sublime Floral Gold and Diamond Necklace Set",
+     "price": "131360",
+     "Category1": "women",
+     "Category2": "necklace set",
+     "id": 84
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500473DQAABB01_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Brilliant Floral Diamond and Gold Short Drop Earrings",
+     "price": "85153",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 85
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500478SDAABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Urbane Yellow Gold Triangular Stud Earrings",
+     "price": "18330",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 86
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500481VBABA31.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Leia Garnet Bangle",
+     "price": "44067",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 87
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500494FDAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stylish Round Diamond Finger Ring",
+     "price": "53066",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 88
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500494FWAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Ridged Single Stone Diamond Ring",
+     "price": "34906",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 89
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500495FMAAA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Graceful Ruby Ring",
+     "price": "15733",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 90
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500496FDAAB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sleek Seven Stone Floral Motif Diamond Finger Ring",
+     "price": "23507",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 91
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500519FUAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Enchanting Floral 18 Karat Gold And Diamond Ring",
+     "price": "57252",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 92
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500552FGAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Geometric Diamond Ring for Men",
+     "price": "63095",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 93
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500555FNAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stunning Flowerbud Single Stone Diamond Ring",
+     "price": "47576",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 94
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500760SMAADA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Flawless Floral Diamond Stud Earrings",
+     "price": "25858",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 95
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500761FXAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Eclectic Diamond Mesh Ring for Men",
+     "price": "48116",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 96
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500762FBAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Iridescent 18 Karat Gold And Diamond Ring For Men",
+     "price": "49444",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 97
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500765OOAAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Classy Chic Gold and Diamond Nose Pin",
+     "price": "12139",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 98
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500766OBAABB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Petite Floral Gold and Diamond Nose Pin",
+     "price": "22297",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 99
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500775PGAAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Exquisite Floral Round Diamond Pendant",
+     "price": "133540",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 100
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500812OAAABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Majestic Floral Gold and Diamond Nose Pin",
+     "price": "34977",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 101
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500816FOAAB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Contemporary Diamond Ring",
+     "price": "19466",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 102
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500816FQAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charismatic Men's Square Matt Diamond Finger Ring",
+     "price": "90009",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 103
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500816FTAAA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Minimalistic 18 Karat Gold And Ruby Floral Ring",
+     "price": "22712",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 104
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500819OMAAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Royal Crown Gold and Diamond Nose Pin",
+     "price": "11915",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 105
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500827FGAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Striking 18 Karat Yellow Gold And Diamond Finger Ring",
+     "price": "93806",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 106
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500859DBAABA31_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Exquisite 18 Karat Yellow Gold And Citrine Drops",
+     "price": "26509",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 107
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500895FBAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Charming Yellow Gold Droplet Finger Ring",
+     "price": "13113",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 108
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500895FKAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Classy Dainty Gold Ring",
+     "price": "10879",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 109
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500896FOAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Chic Blockchain Gold Ring",
+     "price": "13955",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 110
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500896FVAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Charming Croissant Gold Ring",
+     "price": "12362",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 111
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500900PPAAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Gorgeous Yellow Gold Ballerina Pendant",
+     "price": "6409",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 112
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500925FHAAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Artistic Design Fancy Diamond Finger Ring",
+     "price": "23957",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 113
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500930FHAAB02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Enchanting 18 Karat Yellow Gold And Diamond Trail Finger Ring",
+     "price": "58004",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 114
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500930SHAABA01_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 15 % Off",
+     "title": "Beguiling Floral Diamond Stud Earrings",
+     "price": "265829",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 115
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500930SPAABA01_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Contemporary Gold Stud Earrings",
+     "price": "80641",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 116
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500937DJAABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Eccentric Yellow Gold Asymmetric Drop Earrings",
+     "price": "21397",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 117
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500937HBAAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Sophisticated Yellow Gold Thunderbolt Hoop Earrings",
+     "price": "20548",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 118
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500990CAABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Stunning Gold Chain",
+     "price": "19003",
+     "Category1": "unisex",
+     "Category2": "chain",
+     "id": 119
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500990CBAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Classic Cable Gold Chain",
+     "price": "17477",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 120
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500991CAAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Timeless Gold Chain",
+     "price": "40342",
+     "Category1": "unisex",
+     "Category2": "chain",
+     "id": 121
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501002FBEAA04_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Magnificent 18 Karat Gold And Diamond Ring",
+     "price": "37414",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 122
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501002FGIAB02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delightful 18 Karat Yellow Gold And Diamond Floral Ring",
+     "price": "44337",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 123
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1DFMABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Statement Gold Drop Earrings",
+     "price": "64603",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 124
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSHAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Picture Perfect Diamond Ring",
+     "price": "24633",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 125
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2J1YLOAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Leafy Charm Diamond Mangalsutra",
+     "price": "65362",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 126
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2NCUAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Burst of Dawn Necklace",
+     "price": "38504",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 127
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFVOL1A09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Flick of Sparkle Bangle",
+     "price": "95258",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 128
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTFTFAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Moondrop Diamond Ring",
+     "price": "24330",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 129
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTFXBAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Triangle Lattice Diamond Ring",
+     "price": "17474",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 130
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CADCVABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Captivating Diamond Drop Earrings",
+     "price": "53674",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 131
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1DYDABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Floral Engraved Gold Drop Earrings",
+     "price": "28951",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 132
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A3DRLABA18_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Fancy Ruby Drop Earrings",
+     "price": "28044",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 133
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2CTPJYAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Christmas Spirit Pendant",
+     "price": "20015",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 134
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513013HMEAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Gleaming Gold Hoop Earrings",
+     "price": "17698",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 135
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSFAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "A Dainty Marvel Diamond Ring",
+     "price": "26197",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 136
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSGAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Simple Joys Diamond Ring",
+     "price": "22521",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 137
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1SFEABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Fresh Leafy Stud Earrings",
+     "price": "20823",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 138
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/515090SBXABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Striking Stud Earrings",
+     "price": "39154",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 139
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/515090DAIAGA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Sparkling Drop Earrings",
+     "price": "15326",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 140
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2HYSAAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Cherry Cascade Diamond Hoop Earrings",
+     "price": "57523",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 141
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTDJKAGA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delightful Diamond Drop Earrings",
+     "price": "26429",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 142
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1MPYGUAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Magnificent Circular Mangalsutra",
+     "price": "86117",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 143
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1SEDABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Stylish Opulence Diamond and Iolite Stud Earrings",
+     "price": "162155",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 144
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504045VCM1A02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Little Queen Diamond Bangle",
+     "price": "72284",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 145
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FFDAQABA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 20 % Off",
+     "title": "Glamorous Endeavours Drop Earrings",
+     "price": "529051",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 146
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1I2SRCAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Glam Simple Diamond Stud Earrings",
+     "price": "55912",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 147
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/506030SRYABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Contemporary Modish Stud Earrings",
+     "price": "49308",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 148
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2KPDSIABB88_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Dainty Ram Parivaar Drop Earrings",
+     "price": "43926",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 149
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P20TJEBA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Modish Dainty Diamond Pendant with Chain and Earrings Set",
+     "price": "102040",
+     "Category1": "women",
+     "Category2": "pendant with chain and earrings set",
+     "id": 150
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I1FGSAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Pretty Bow Diamond Ring",
+     "price": "31076",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 151
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504025CYZAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Radiant Dual Tone Chain",
+     "price": "23265",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 152
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511819DKBABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Mesmerizing Gold Drop Earrings",
+     "price": "32309",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 153
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511250PHXAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Glittering Gold Pendant",
+     "price": "51350",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 154
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/512018XMXAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Charming Traditional Mattal",
+     "price": "72845",
+     "Category1": "women",
+     "Category2": "mattal",
+     "id": 155
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502999HGXAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Classy Rose Gold and Diamond Hoop Earrings",
+     "price": "40231",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 156
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501720PIHAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Divine Lord Ganesha Pendant",
+     "price": "32514",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 157
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1DFMABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Statement Gold Drop Earrings",
+     "price": "64603",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 158
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSHAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Picture Perfect Diamond Ring",
+     "price": "24633",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 159
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2J1YLOAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Leafy Charm Diamond Mangalsutra",
+     "price": "65362",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 160
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2NCUAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Burst of Dawn Necklace",
+     "price": "38504",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 161
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFVOL1A09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Flick of Sparkle Bangle",
+     "price": "95258",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 162
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTFTFAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Moondrop Diamond Ring",
+     "price": "24330",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 163
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTFXBAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Triangle Lattice Diamond Ring",
+     "price": "17474",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 164
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CADCVABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Captivating Diamond Drop Earrings",
+     "price": "53674",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 165
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1DYDABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Floral Engraved Gold Drop Earrings",
+     "price": "28951",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 166
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A3DRLABA18_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Fancy Ruby Drop Earrings",
+     "price": "28044",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 167
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2CTPJYAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Christmas Spirit Pendant",
+     "price": "20015",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 168
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2SZIABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Pure Wonder Diamond Stud Earrings",
+     "price": "48807",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 169
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CADCPAAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Ethereal Diamond and Pearl Drop Earrings",
+     "price": "67763",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 170
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P21EPABA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Elegance Diamond Pendant and Earrings Set",
+     "price": "31746",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 171
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTSCAAGA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Bling Diamond Stud Earrings",
+     "price": "22282",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 172
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P21EZABA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Beauty Diamond Pendant and Earrings Set",
+     "price": "43352",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 173
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2PYXAAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Rosy Tint Diamond Pendant",
+     "price": "38168",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 174
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFDMHAGA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delightful Spirals Diamond Drop Earrings",
+     "price": "45851",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 175
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501920DINAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Eclectic Teardrop Drop Earrings",
+     "price": "32223",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 176
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501767FJVAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Butterfly Diamond Ring",
+     "price": "23664",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 177
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2GSPISAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Auspicious Guru Gobind Singh Ji Pendant",
+     "price": "19297",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 178
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/5132201FNABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Divine Gold Pendant and Earrings Set",
+     "price": "48203",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 179
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2FFPAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Nature's Beauty Diamond Ring",
+     "price": "13183",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 180
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTFIVAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dazzling Curves Diamond Ring",
+     "price": "28831",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 181
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CADCCABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sparkling Slender Diamond Drop Earrings",
+     "price": "72815",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 182
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2FZJAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Meet me at Twilight Diamond Ring",
+     "price": "38764",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 183
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2FFTAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Minimal Sparkle Diamond Ring",
+     "price": "15968",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 184
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503119PRGAAB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Royal Gold Diamond Pendant",
+     "price": "28053",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 185
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/510167DAAABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Appealing Traditional Drop Earrings",
+     "price": "65229",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 186
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/5130205AO1BAP3_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Extravagant Necklace Set with Maang Tikka, Nathini and Bangles with precious stones",
+     "price": "1389654",
+     "Category1": "women",
+     "Category2": "jewellery set",
+     "id": 187
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/5132201FGABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Geometric Gold Pendant and Earrings Set",
+     "price": "37883",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 188
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513013HMEAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Gleaming Gold Hoop Earrings",
+     "price": "17698",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 189
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSFAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "A Dainty Marvel Diamond Ring",
+     "price": "26197",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 190
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSGAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Simple Joys Diamond Ring",
+     "price": "22521",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 191
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1SFEABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Fresh Leafy Stud Earrings",
+     "price": "20823",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 192
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/515090SBXABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Striking Stud Earrings",
+     "price": "39154",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 193
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/515090DAIAGA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Sparkling Drop Earrings",
+     "price": "15326",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 194
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2HYSAAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Cherry Cascade Diamond Hoop Earrings",
+     "price": "57523",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 195
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTDJKAGA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delightful Diamond Drop Earrings",
+     "price": "26429",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 196
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTSIHAGA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Modern Radiance Diamond Stud Earrings",
+     "price": "22640",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 197
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2J1VAY1A09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Glittering Cluster Diamond Bangle",
+     "price": "41194",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 198
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFSSCAGA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Easy Glam Diamond Stud Earrings",
+     "price": "39890",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 199
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2GSPIWAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Brilliant Khanda and Guru Gobind Singh Ji Pendant",
+     "price": "25625",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 200
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502996FWCAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Bewitching Diamond Ring",
+     "price": "30695",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 201
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51T051FMAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Opulent Geometric Ring",
+     "price": "27808",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 202
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511318FACAACZ_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Classic Square Gold Finger Ring For Men",
+     "price": "36759",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 203
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFSLSAGA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Eye-Catchy Conch Diamond Stud Earrings",
+     "price": "49147",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 204
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2SZEABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Wild Roses Diamond Stud Earrings",
+     "price": "55970",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 205
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2BS1QXABA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 15 % Off",
+     "title": "Classic Glam Diamond Pendant and Earrings Set",
+     "price": "273449",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 206
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2SZSABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Pink Sunshine Diamond Stud Earrings",
+     "price": "54947",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 207
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTDJJAGA10.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sleek Shimmer Diamond Drop Earrings",
+     "price": "25890",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 208
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSKAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Subtle Shimmer Diamond Ring",
+     "price": "34094",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 209
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2FZMAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "My Fair Princess Diamond Ring",
+     "price": "53809",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 210
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511787VFF2B00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Graceful Gold Bangle",
+     "price": "53220",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 211
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1HELAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Tassel Gold Hoop Earrings",
+     "price": "39984",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 212
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A2CVCAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Elegant Simple Chain",
+     "price": "53230",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 213
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P21EMABA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charming Flower Diamond Pendant and Earrings Set",
+     "price": "36487",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 214
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1D1SOHAGA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Flashy Floral Diamond Stud Earrings",
+     "price": "29146",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 215
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTHRGAAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Modish Diamond Hoop Earrings",
+     "price": "17859",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 216
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P20TIEBA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Chic Abstract Diamond Pendant with Chain and Earrings Set",
+     "price": "71973",
+     "Category1": "women",
+     "Category2": "pendant with chain and earrings set",
+     "id": 217
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D4PTSHTAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delicate Flowers Diamond Stud Earrings",
+     "price": "25279",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 218
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFTEAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Subtle Glam Diamond Ring",
+     "price": "20679",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 219
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFUEAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Chic Elegance Diamond Ring",
+     "price": "23499",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 220
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTYKEAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Evergreen Leafy Diamond Mangalsutra",
+     "price": "41791",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 221
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1DIKABAP3_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Ornate Floral Drop Earrings",
+     "price": "133322",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 222
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1KFNAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Flawless Intricate Maang Tikka",
+     "price": "47751",
+     "Category1": "women",
+     "Category2": "maang tikka",
+     "id": 223
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1JDNABAP3_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Traditional Crescent Jhumkas",
+     "price": "175930",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 224
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1KPFBAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Suave Square Pattern Gold Finger Ring For Men",
+     "price": "31897",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 225
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1KFPAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Glorious Intricate Maang Tikka",
+     "price": "50538",
+     "Category1": "women",
+     "Category2": "maang tikka",
+     "id": 226
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51O2AKVCK2A00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Nitya Lata Bangle",
+     "price": "400905",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 227
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51O1PPSBXABAP1_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Carved Geometric Floral Stud Earrings",
+     "price": "61380",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 228
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2GSPIUAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Splendid Guru Gobind Singh Ji Pendant",
+     "price": "21750",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 229
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2UYPDRAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Majestic Lion Pendant for Men",
+     "price": "37213",
+     "Category1": "men",
+     "Category2": "pendant",
+     "id": 230
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513519VAR1B00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Aesthetic Gold Bangle",
+     "price": "50847",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 231
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513020KHOAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Elaborate Traditional Maang Tikka",
+     "price": "55233",
+     "Category1": "women",
+     "Category2": "maang tikka",
+     "id": 232
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511419YTDAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Radiant Gold Mangalsutra",
+     "price": "68172",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 233
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502993FERAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Geometric Elegant Diamond Ring",
+     "price": "25335",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 234
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511787VFF2B00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Graceful Gold Bangle",
+     "price": "53220",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 235
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CADCTABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Abstract Whimsy Diamond Drop Earrings",
+     "price": "56886",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 236
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFTOAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Simple Striking Diamond Ring",
+     "price": "23499",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 237
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A2YWSAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Circular Tassels Mangalsutra",
+     "price": "48147",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 238
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFTEAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Subtle Glam Diamond Ring",
+     "price": "20679",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 239
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFUEAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Chic Elegance Diamond Ring",
+     "price": "23499",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 240
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTYKEAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Evergreen Leafy Diamond Mangalsutra",
+     "price": "41791",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 241
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1DIKABAP3_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Ornate Floral Drop Earrings",
+     "price": "133322",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 242
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1KFNAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Flawless Intricate Maang Tikka",
+     "price": "47751",
+     "Category1": "women",
+     "Category2": "maang tikka",
+     "id": 243
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1JDNABAP3_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Traditional Crescent Jhumkas",
+     "price": "175930",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 244
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1KPFBAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Suave Square Pattern Gold Finger Ring For Men",
+     "price": "31897",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 245
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1KFPAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Glorious Intricate Maang Tikka",
+     "price": "50538",
+     "Category1": "women",
+     "Category2": "maang tikka",
+     "id": 246
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51O2AKVCK2A00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Nitya Lata Bangle",
+     "price": "400905",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 247
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51O1PPSBXABAP1_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Carved Geometric Floral Stud Earrings",
+     "price": "61380",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 248
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2GSPIUAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Splendid Guru Gobind Singh Ji Pendant",
+     "price": "21750",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 249
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2UYPDRAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Majestic Lion Pendant for Men",
+     "price": "37213",
+     "Category1": "men",
+     "Category2": "pendant",
+     "id": 250
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513519VAR1B00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Aesthetic Gold Bangle",
+     "price": "50847",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 251
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502993SUCABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Majestic Diamond Stud Earrings",
+     "price": "64793",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 252
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502996FUHAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Textured Floral Diamond Ring",
+     "price": "17859",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 253
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1D1VEE1A02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Delightful Floral Diamond Bangle",
+     "price": "103564",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 254
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1MPYGYAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Immaculate Floral Mangalsutra",
+     "price": "83350",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 255
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504025CZDAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Glistening Orbs Chain",
+     "price": "28135",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 256
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1SDDABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Majestic Diamond and Onyx Stud Earrings",
+     "price": "129523",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 257
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FFDDDABA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 20 % Off",
+     "title": "Sunset Daydreams Drop Earrings",
+     "price": "587885",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 258
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1VIH1A02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 20 % Off",
+     "title": "Splendid Broad Cuff Diamond Bangle",
+     "price": "492664",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 259
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FFSCIABA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 15 % Off",
+     "title": "Dahlia Decadence Stud Earrings",
+     "price": "357648",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 260
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2A1DDNADA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Elegant Geometric Diamond Drop Earrings",
+     "price": "52405",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 261
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FF1AUABA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 15 % Off",
+     "title": "Gorgeous and Fun! Pendant Set",
+     "price": "411062",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 262
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/741188FVLAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Incredible Diamond Ring",
+     "price": "35844",
+     "Category1": "unisex",
+     "Category2": "finger ring",
+     "id": 263
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P21ETABA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Nature's Beauty Diamond Pendant and Earrings Set",
+     "price": "37975",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 264
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CAFBIAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stop &amp; Play Diamond Ring",
+     "price": "18791",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 265
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CAFCG3A09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stackable Diamond Vanki Rings",
+     "price": "56248",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 266
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2D2FSQAA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Twists &amp; Curves Diamond Ring",
+     "price": "63366",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 267
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTDJDAGA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Slender Floral Diamond Drop Earrings",
+     "price": "29099",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 268
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFSFAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Classy Shimmer Diamond Ring",
+     "price": "15039",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 269
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2A3FAZAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Chic Diamond Broad Finger Band",
+     "price": "124880",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 270
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/515090SNIABAP5_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Ruby Studded Sunflower Gold Stud Earrings",
+     "price": "62184",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 271
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFPPDAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sway with Me! Pendant",
+     "price": "27993",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 272
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2D1FCUAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Radiant Traditional Ring",
+     "price": "23179",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 273
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2GSFIZAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Auspicious Guru Gobind Singh Ji Ring",
+     "price": "38254",
+     "Category1": "unisex",
+     "Category2": "finger ring",
+     "id": 274
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2CTFJXAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Starry Delight Ring",
+     "price": "28167",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 275
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1KPPLEAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Divine Ek Omkar Pendant",
+     "price": "34036",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 276
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2LMPIFAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Elegant Lohri Pendant",
+     "price": "26933",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 277
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2LMPIJAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Charming Kites Makar Sankranti Pendant",
+     "price": "22987",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 278
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502995SHQADA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Majestic White and Yellow Gold and Diamond Stud Earrings",
+     "price": "40015",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 279
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502117VAU1A02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Sparkling Touch Diamond Bangle",
+     "price": "110018",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 280
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FFFBYAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "A Cut Above Ring",
+     "price": "206100",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 281
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501002SEEADA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Artistic Floral Motif Diamond Stud Earrings",
+     "price": "48090",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 282
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513020KHOAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Elaborate Traditional Maang Tikka",
+     "price": "55233",
+     "Category1": "women",
+     "Category2": "maang tikka",
+     "id": 283
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511419YTDAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Radiant Gold Mangalsutra",
+     "price": "68172",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 284
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502993FERAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Geometric Elegant Diamond Ring",
+     "price": "25335",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 285
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2UYFAMAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Lion Signet Ring for Men",
+     "price": "85504",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 286
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502419SAFADA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Unique Stunning Rose Gold and Diamond Stud Earrings",
+     "price": "35490",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 287
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1D1DTCABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stylish Diamond Drop Earrings",
+     "price": "57451",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 288
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504015FOMAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charismatic Carved Diamond Finger Ring For Men",
+     "price": "50273",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 289
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500176NZAAA12_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Beautiful Butterfly Gold and Ruby Necklace for Kids",
+     "price": "41560",
+     "Category1": "kids",
+     "Category2": "necklace",
+     "id": 290
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1D1SOIADA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Floral Diamond Stud Earrings",
+     "price": "48353",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 291
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502993SCOADA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Bold Floral Gold and Diamond Stud Earrings",
+     "price": "30851",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 292
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FFFBIAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Paradise Delight Ring",
+     "price": "236087",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 293
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500064OQAAPA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Chic Classy Gold and Diamond Nose Pin",
+     "price": "67561",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 294
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FFFCZAA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "A Bold Stroke Ring",
+     "price": "160728",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 295
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2FFSCTABA29_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 15 % Off",
+     "title": "The Enigma! Stud Earrings",
+     "price": "356117",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 296
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1D1SOHAGA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Flashy Floral Diamond Stud Earrings",
+     "price": "29146",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 297
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1KPFOXAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Cross Pattern Gold Finger Ring For Men",
+     "price": "37506",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 298
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/60C2DTZAAAAP00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Lord Buddha Gold Coin",
+     "price": "24281",
+     "Category1": "unisex",
+     "Category2": "gold coin",
+     "id": 299
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/60C2DTZAEAAP00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Cute Tiny Feet Coin",
+     "price": "24281",
+     "Category1": "unisex",
+     "Category2": "gold coin",
+     "id": 300
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/505090DMBABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Wonderful Diamond Drop Earrings",
+     "price": "31931",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 301
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFDNBAGA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Contemporary Web Diamond Drop Earrings",
+     "price": "34401",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 302
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFPKEAAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Swirling Ribbon Diamond Pendant",
+     "price": "44090",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 303
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFDMFAGA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Eclectic Teardrop Diamond Drop Earrings",
+     "price": "34119",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 304
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3I1GXJAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "A Glorious Leaf Diamond Pendant with Chain",
+     "price": "53798",
+     "Category1": "women",
+     "Category2": "pendant with chain",
+     "id": 305
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSIAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dotted Elegance Diamond Ring",
+     "price": "30400",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 306
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501920SLNAGA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Abstract Geometric Stud Earrings",
+     "price": "11495",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 307
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500496FWAAC22_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charming Floral Diamond Finger Ring",
+     "price": "46535",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 308
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/744016FCAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stylish Diamond Ring",
+     "price": "51648",
+     "Category1": "unisex",
+     "Category2": "finger ring",
+     "id": 309
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2NCPAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Prism Pop Necklace",
+     "price": "37756",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 310
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50E2D1FDWAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Crowning Glory Diamond Ring",
+     "price": "64680",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 311
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFUHAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Golden Waves Diamond Ring",
+     "price": "17859",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 312
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFUJAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stylish Dainty Diamond Ring",
+     "price": "20679",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 313
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CAFCI3A09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Stackable Arch Diamond Rings",
+     "price": "92010",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 314
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTSBFAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Classic Bold Diamond Stud Earrings",
+     "price": "35927",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 315
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTFAVAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Elegant Waves Diamond Ring",
+     "price": "24630",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 316
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTNASAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Asymmetric Elegance Diamond Necklace",
+     "price": "96054",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 317
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P20TOEBA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Radial Glamour Diamond Pendant with Chain and Earrings Set",
+     "price": "89272",
+     "Category1": "women",
+     "Category2": "pendant with chain and earrings set",
+     "id": 318
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504045DDRABA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Abstract Sparkle Diamond Drop Earrings",
+     "price": "68346",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 319
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504013BCNAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Slender Shimmer Diamond Bracelet",
+     "price": "186553",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 320
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504015FOKAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Voguish Single Stone Diamond Finger Ring For Men",
+     "price": "54916",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 321
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1I2SQWADA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Minimal Vines Diamond Stud Earrings",
+     "price": "36247",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 322
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2DSDGNABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Classic Sapphire and Diamond Drop Earrings",
+     "price": "235160",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 323
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1SDRABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Clean Sparkle Diamond Stud Earrings",
+     "price": "114725",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 324
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1FCVAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Verdant Dazzle Diamond and Onyx Ring",
+     "price": "244664",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 325
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500473NEAAB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Stylised Floral Gold and Diamond Necklace",
+     "price": "95424",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 326
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFDOXAGA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Season's Greetings Drop Earrings",
+     "price": "44216",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 327
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504025CZJAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Modish Dual Tone Chain",
+     "price": "28305",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 328
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2BIVST1A02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Splendid Radial Diamond Bangle",
+     "price": "127423",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 329
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/514025OAXAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Majestic Filigree Nose Pin",
+     "price": "27962",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 330
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2J1FLCAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Gleaming Flower Diamond Ring",
+     "price": "24293",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 331
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A2CKFAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Grand Gleaming Chain",
+     "price": "64862",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 332
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2LMPIGAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Radiant Lohri Pendant",
+     "price": "21316",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 333
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2UYPDIAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Adventurous Compass Pendant",
+     "price": "29959",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 334
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50G2PTFAJAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sublime Diamond Ring for Men",
+     "price": "58238",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 335
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2UYFALAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Majestic Lion Ring for Men",
+     "price": "89723",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 336
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502993SHXAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Marvellous Diamond Stud Earrings",
+     "price": "78239",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 337
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502993PUXAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Mesmerizing Diamond Pendant",
+     "price": "167171",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 338
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFUHAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Golden Waves Diamond Ring",
+     "price": "17859",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 339
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D5PTFUJAA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stylish Dainty Diamond Ring",
+     "price": "20679",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 340
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CAFCI3A09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Stackable Arch Diamond Rings",
+     "price": "92010",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 341
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTSBFAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Classic Bold Diamond Stud Earrings",
+     "price": "35927",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 342
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTFAVAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Elegant Waves Diamond Ring",
+     "price": "24630",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 343
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTNASAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Asymmetric Elegance Diamond Necklace",
+     "price": "96054",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 344
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P20TOEBA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Radial Glamour Diamond Pendant with Chain and Earrings Set",
+     "price": "89272",
+     "Category1": "women",
+     "Category2": "pendant with chain and earrings set",
+     "id": 345
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504045DDRABA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Abstract Sparkle Diamond Drop Earrings",
+     "price": "68346",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 346
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504013BCNAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Slender Shimmer Diamond Bracelet",
+     "price": "186553",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 347
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504015FOKAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Voguish Single Stone Diamond Finger Ring For Men",
+     "price": "54916",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 348
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1I2SQWADA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Minimal Vines Diamond Stud Earrings",
+     "price": "36247",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 349
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2DSDGNABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Classic Sapphire and Diamond Drop Earrings",
+     "price": "235160",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 350
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1SDRABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Clean Sparkle Diamond Stud Earrings",
+     "price": "114725",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 351
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1FCVAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Verdant Dazzle Diamond and Onyx Ring",
+     "price": "244664",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 352
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500473NEAAB09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Stylised Floral Gold and Diamond Necklace",
+     "price": "95424",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 353
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/500496FWAAC22_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charming Floral Diamond Finger Ring",
+     "price": "46535",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 354
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/744016FCAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stylish Diamond Ring",
+     "price": "51648",
+     "Category1": "unisex",
+     "Category2": "finger ring",
+     "id": 355
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2NCPAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Prism Pop Necklace",
+     "price": "37756",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 356
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2NDGAA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dramatic Cluster Necklace",
+     "price": "36228",
+     "Category1": "women",
+     "Category2": "necklace",
+     "id": 357
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2MESAX1GA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charming Geometric Diamond Stud Earrings",
+     "price": "28520",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 358
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A2CIMAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Slender Detailed Chain",
+     "price": "131210",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 359
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFDOVAGA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Timeless Sparkle Drop Earrings",
+     "price": "41650",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 360
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PT1UTABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Bright and Radiant Diamond Pendant and Earrings Set",
+     "price": "96604",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 361
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A3SRHABA40_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "10 % Off on Making Charges",
+     "title": "Regal Emerald and Ruby Stud Earrings",
+     "price": "47173",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 362
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2I1FELAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Delicate Geometric Ring",
+     "price": "14497",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 363
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F1KPBCBAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Delicate Sagittarius Diamond Bracelet",
+     "price": "33238",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 364
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P2SDZABA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Tendrils Diamond Stud Earrings",
+     "price": "31057",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 365
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2P21EWABA10_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sparkling Moments Diamond Pendant and Earrings Set",
+     "price": "24332",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 366
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CAFCHAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Link Style Diamond Ring",
+     "price": "22863",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 367
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/514022PKAAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Alphabet F Pendant",
+     "price": "8631",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 368
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1JUYABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Ornate Floral Jhumkas",
+     "price": "66274",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 369
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A2YWOAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Regal Peacock Mangalsutra",
+     "price": "107678",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 370
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/514022PSDAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Graceful Lord Balaji Pendant",
+     "price": "27788",
+     "Category1": "unisex",
+     "Category2": "pendant",
+     "id": 371
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2LMBILAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Flourishing Harvest Lohri Bracelet",
+     "price": "45481",
+     "Category1": "unisex",
+     "Category2": "bracelet",
+     "id": 372
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CASCBABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Radiant Chic Diamond Stud Earrings",
+     "price": "31627",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 373
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFPJAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Shimmy Up! Ring",
+     "price": "23616",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 374
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501819FACAAP5_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Fascinating Floral Gold Finger Ring",
+     "price": "31470",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 375
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/501772VHF1A09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Florals Rose Gold and Diamond Bangle",
+     "price": "53358",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 376
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51W2A1DHFABAP3_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Opulent Floral Drop Earrings",
+     "price": "101991",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 377
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1KPFAZAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Hexagon Carved Gold Finger Ring For Men",
+     "price": "39768",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 378
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1KPFDSAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Subtle Octagonal Ring for Men",
+     "price": "77145",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 379
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50O2DSDAQABA32_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 10 % Off",
+     "title": "Graceful Tulips Sapphire Drop Earrings",
+     "price": "100399",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 380
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50O2PTVTP1A02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 20 % Off",
+     "title": "Striking Spirals Diamond Bangle",
+     "price": "604652",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 381
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513420DDTABA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Almond Motif Gold Drop Earrings",
+     "price": "30719",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 382
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513420PADAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Minimalistic Gold Pendant",
+     "price": "34445",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 383
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513420PCCAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Floral Detailed Gold Pendant",
+     "price": "48707",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 384
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F2LMBIHAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Joyous Lohri Bracelet",
+     "price": "45703",
+     "Category1": "unisex",
+     "Category2": "bracelet",
+     "id": 385
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511250YGDAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Hypnotic Gold Mangalsutra",
+     "price": "48442",
+     "Category1": "women",
+     "Category2": "mangalsutra",
+     "id": 386
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/512216CBWAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Whimsical Gold Chain",
+     "price": "72840",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 387
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFSJAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Clean Cuts Diamond Ring",
+     "price": "31242",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 388
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I1FFEAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Glam Wispy Diamond Ring",
+     "price": "58007",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 389
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2FFFFRAA02.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Dainty Dazzle Diamond Ring",
+     "price": "34929",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 390
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51F1D1VPB2A00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Stunning Unique Design Gold Bangle for Kids",
+     "price": "101521",
+     "Category1": "kids",
+     "Category2": "bangle",
+     "id": 391
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2UYGDLAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Bold Pendant with Chain for Men",
+     "price": "40591",
+     "Category1": "men",
+     "Category2": "pendant with chain",
+     "id": 392
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50F2UYGDHAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Stylish Dumbbell Pendant with Chain for Men",
+     "price": "71410",
+     "Category1": "men",
+     "Category2": "pendant with chain",
+     "id": 393
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513518FCKAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Casual Stylish Gold Ring",
+     "price": "53220",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 394
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503220FVPAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Clean Bold Ring",
+     "price": "36333",
+     "Category1": "men",
+     "Category2": "finger ring",
+     "id": 395
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511787VER2B00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Plush Gold Bangle",
+     "price": "48969",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 396
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/5111701FQABAP5_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Sleek Geometric Design Gold Pendant and Earrings Set",
+     "price": "48240",
+     "Category1": "women",
+     "Category2": "pendant and earrings set",
+     "id": 397
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/517C00JKGABACZ_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Leaf Motif Hanging Gold Jhumka Earrings",
+     "price": "67828",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 398
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2I1SHKABA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Vivacious Dainty Diamond Stud Earrings",
+     "price": "69111",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 399
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2A1FMVAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Charming Delicate Diamond Ring",
+     "price": "40421",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 400
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A1VSU2A00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Stunning Delicate Pair of Bangles",
+     "price": "114022",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 401
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/515065DBLABAP5_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Traditional Ruby Studded Gold Drop Earrings",
+     "price": "50520",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 402
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51D2A2CLBAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Magnificent Double Tier Chain",
+     "price": "128771",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 403
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/51BB11OBBAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Timeless Intricate Nathini",
+     "price": "53382",
+     "Category1": "women",
+     "Category2": "nose pin",
+     "id": 404
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504045FRTAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 4 % Off",
+     "title": "Alluring Diamond Ring",
+     "price": "39226",
+     "Category1": "unisex",
+     "Category2": "finger ring",
+     "id": 405
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D1D1DTNABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Opulent Diamond Drop Earrings",
+     "price": "59656",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 406
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504013DBTABA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Tiny Leaf Diamond Drop Earrings",
+     "price": "81957",
+     "Category1": "women",
+     "Category2": "earrings",
+     "id": 407
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50C2D1VIO1A09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 15 % Off",
+     "title": "Enigmatic Broad Cuff Diamond Bangle",
+     "price": "303632",
+     "Category1": "women",
+     "Category2": "bangle",
+     "id": 408
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/504025CZJAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Modish Dual Tone Chain",
+     "price": "28305",
+     "Category1": "women",
+     "Category2": "chain",
+     "id": 409
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503617PLIAAA02_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Stately Round Gold and Diamond Pendant",
+     "price": "38849",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 410
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/503120PDLAAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Flowery Ridge Diamond Pendant",
+     "price": "39246",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 411
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/513420PCEAAA00_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "title": "Chic Surreal Pendant",
+     "price": "30056",
+     "Category1": "women",
+     "Category2": "pendant",
+     "id": 412
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/502015FEFAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 4 % Off",
+     "title": "Bold Geometry Diamond Ring",
+     "price": "13945",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 413
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D3I1GXKAA32.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Autumn Chimes Diamond Pendant with Chain",
+     "price": "34579",
+     "Category1": "women",
+     "Category2": "pendant with chain",
+     "id": 414
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2PTBOYAA09.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Sharp Style Diamond Bracelet",
+     "price": "39935",
+     "Category1": "women",
+     "Category2": "bracelet",
+     "id": 415
+    },
+    {
+     "image": "https://staticimg.titan.co.in/Tanishq/Catalog/50D2CAFBGAA09_1.jpg?impolicy=pqmed&amp;imwidth=640",
+     "discount": "Flat 6 % Off",
+     "title": "Chic Wrap-Around Diamond Ring",
+     "price": "26035",
+     "Category1": "women",
+     "Category2": "finger ring",
+     "id": 416
+    }
+   ]
+}
